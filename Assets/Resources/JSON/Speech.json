@@ -1,0 +1,54 @@
+{
+  "speechContainers" : [
+    {
+      "characterName": "Chime",
+      "speeches": [
+        {
+          "speech": "아가씨께서 저와 오목을 두자고 하시니 영광입니다요.",
+          "expression": "Happy",
+          "index": 0
+        },
+        {
+          "speech": "아이고 아가씨, 그 수도 훌륭하지만 여기가 더 좋다고 생각합니다요.",
+          "expression": "Neutral",
+          "index": 1
+        },
+        {
+          "speech": "아, 아가씨... 어찌 그런 무시무시한 수를...",
+          "expression": "Frustrated",
+          "index": 2
+        },
+        {
+          "speech": "아하하... 아가씨~ 오목하는 상대방은 아군이 아니니까 전력으로 하셔야 합니다;;;",
+          "expression": "Shy",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "characterName": "Crown",
+      "speeches": [
+        {
+          "speech": "역시 왕국의 유능한 비서 차임의 수는 수박이 절로 나오는군요.",
+          "expression": "Neutral",
+          "index": 0
+        },
+        {
+          "speech": "어떤가요, 차임. 제 위장의 수가?",
+          "expression": "Happy",
+          "index": 1
+        },
+        {
+          "speech": "아, 예에. 이, 이렇게도 둘 수가 있죠...?",
+          "expression": "Distracted",
+          "index": 2
+        },
+        {
+          "speech": "인정사정없이 대국해달라구요?! 하지만, 차임은 왕국의 백성인데...",
+          "expression": "Panic",
+          "index": 3
+        }
+      ]
+    }
+  ]
+}
