@@ -1,3 +1,7 @@
+![포트폴리오 이미지](Portfolio_-_CrownChimeGomoku.png)
+[영상 (Video)](https://www.youtube.com/watch?v=N7WJeP0Y2oA)
+
+
 # 크라운과 차임의 오목
 연습을 위한 개인프로젝트이자 니케 팬-메이드 게임. 로컬 네트워크 오목.
 
