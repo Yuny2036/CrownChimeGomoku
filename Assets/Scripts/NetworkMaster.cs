@@ -33,18 +33,6 @@ public class NetworkMaster : MonoBehaviour
 
     void Update()
     {
-        // if (tcp.IsConnect() && !isPlayingGame)
-        // {
-        //     isPlayingGame = true;
-        //     SceneManager.LoadScene(1);
-        // }
-
-        // if (!tcp.IsConnect() && isPlayingGame)
-        // {
-        //     isPlayingGame = false;
-        //     SceneManager.LoadScene(0);
-        // }
-
         if (isWaitingForConnection && !isPlayingGame)
         {
             ProcessHandshake();
